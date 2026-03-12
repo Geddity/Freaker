@@ -1,0 +1,34 @@
+
+weapon.png
+size: 371,1484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon/blunt_1h_iron1
+  rotate: false
+  xy: 178, 402
+  size: 191, 482
+  orig: 191, 482
+  offset: 0, 0
+  index: -1
+weapon/shield1
+  rotate: false
+  xy: 2, 3
+  size: 354, 398
+  orig: 354, 398
+  offset: 0, 0
+  index: -1
+weapon/sword_1h_iron1
+  rotate: false
+  xy: 178, 891
+  size: 77, 592
+  orig: 77, 592
+  offset: 0, 0
+  index: -1
+weapon/sword_2h_iron1
+  rotate: false
+  xy: 2, 402
+  size: 174, 1081
+  orig: 174, 1081
+  offset: 0, 0
+  index: -1

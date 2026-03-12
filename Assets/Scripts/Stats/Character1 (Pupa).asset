@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e10b30566a8bd2448288769fee2f6fb, type: 3}
+  m_Name: Character1 (Pupa)
+  m_EditorClassIdentifier: 
+  levelUpEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  Name: Pupa
+  race: {fileID: 11400000, guid: bf280e4b59c672343be230a6c702c336, type: 2}
+  characterClass: {fileID: 11400000, guid: 884054fd7b32b4c478d81614cb7c0db6, type: 2}
+  level:
+    RequiredExpToLvlUp: 100
+    level: 1
+    experience: 0
+    attributePoints: 0
+  attributes:
+    strength: 10
+    dexterity: 10
+    endurance: 10
+    senses: 6
+    intellect: 8
+    will: 6
+  levelUpRates:
+    strength: 70
+    dexterity: 80
+    endurance: 70
+    senses: 60
+    intellect: 70
+    will: 50
+  stats:
+    hp: 90
+    mp: 50
+    dodge: 15
+    initiative: 14
+    attackRange: 2
+    movementPoints: 4
+    armor: 4
+    magicResistance: 4
+    accuracy: 77
+    intuition: 71
+    physicalDamage: 9
+    magicalDamage: 6
+    physicalCritChance: 23
+    physicalCritDamage: 182
+    magicalCritChance: 16
+    magicalCritDamage: 169
+    extraSlots: 1
+    damage: 0
+  baseStats: {fileID: 11400000, guid: df7a7459accc4814a89d6e0e312f3e2d, type: 2}
+  equipment:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  inventory:
+  - <item>k__BackingField: {fileID: 11400000, guid: 3c8bb58464efc3649a0f52abd097d8f3, type: 2}
+    <amount>k__BackingField: 1
+  - <item>k__BackingField: {fileID: 11400000, guid: af56165618f930346b36b410d9c8d00e, type: 2}
+    <amount>k__BackingField: 1
+  - <item>k__BackingField: {fileID: 11400000, guid: 6d097c703cde73845bc3765ec16f3266, type: 2}
+    <amount>k__BackingField: 1
+  - <item>k__BackingField: {fileID: 11400000, guid: 935e86590630e58448d229104076e73b, type: 2}
+    <amount>k__BackingField: 1
+  - <item>k__BackingField: {fileID: 11400000, guid: f2779b97b0ebf704592a4621dd656c19, type: 2}
+    <amount>k__BackingField: 1
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  - <item>k__BackingField: {fileID: 0}
+    <amount>k__BackingField: 0
+  skins:
+    skeleton: 0
+    skinColor: 0
+    eyeColor: 3
+    mouth: 0
+    scar: 1
+    nose: 1
+    forehead: 1
+    jaw: 6
+    eyeType: 5
+    ear: 2
+    hair: 5
+    hairColor: 0
+    brow: 1
+    browColor: 0
+    mustash: 3
+    mustashColor: 0
+    beard: 1
+    beardColor: 0
+    height: 0.96566343

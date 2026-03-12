@@ -1,0 +1,302 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a15beb212349d34fa5f7e1ac81275ae, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  Name: chelik
+  level:
+    level: 1
+    experience: 0
+  race: {fileID: 11400000, guid: 2a18cd433ae010c4ebc44b67cd1f2b0f, type: 2}
+  classOfCharacter: {fileID: 11400000, guid: c64b12ef014242a4d9de6c0ddd922d52, type: 2}
+  stat:
+    charStats: 0
+    attributeMod: 0
+    attributeMod2: 0
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  attributes:
+  - attributeScore: 10
+    attribute: 0
+    bonus: 0
+  - attributeScore: 10
+    attribute: 1
+    bonus: 0
+  - attributeScore: 10
+    attribute: 2
+    bonus: 0
+  - attributeScore: 10
+    attribute: 3
+    bonus: 0
+  - attributeScore: 10
+    attribute: 4
+    bonus: 0
+  - attributeScore: 10
+    attribute: 5
+    bonus: 0
+  stats:
+  - charStats: 0
+    attributeMod: 2
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 1
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 1
+    attributeMod: 4
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 2
+    attributeMod: 1
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 3
+    attributeMod: 1
+    attributeMod2: 3
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 4
+    attributeMod: 3
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 5
+    attributeMod: 1
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 6
+    attributeMod: 6
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 7
+    attributeMod: 5
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 8
+    attributeMod: 0
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 1
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 9
+    attributeMod: 4
+    attributeMod2: 6
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 10
+    attributeMod: 3
+    attributeMod2: 1
+    trained: 0
+    canBeTrained: 1
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 11
+    attributeMod: 3
+    attributeMod2: 5
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 12
+    attributeMod: 1
+    attributeMod2: 3
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 13
+    attributeMod: 0
+    attributeMod2: 1
+    trained: 0
+    canBeTrained: 1
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 14
+    attributeMod: 5
+    attributeMod2: 3
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  - charStats: 15
+    attributeMod: 4
+    attributeMod2: 5
+    trained: 0
+    canBeTrained: 0
+    bonus: 0
+    hp: 0
+    attackRange: 0
+    armor: 0
+    magicResistance: 0
+    dodge: 0
+    accuracy: 0
+    critChance: 0
+    critDamageBonus: 0
+    movementPoints: 0
+  statistics:
+  - statistic: 0
+    attributeMod: 6
+    bonus: 27
+    currentValue: 0
+  baseStats: {fileID: 11400000, guid: 8725326ca3a023b409af49b343fe1412, type: 2}

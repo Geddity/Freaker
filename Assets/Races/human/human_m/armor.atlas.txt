@@ -1,0 +1,382 @@
+
+armor.png
+size: 80,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor/censored
+  rotate: false
+  xy: 2, 3
+  size: 76, 135
+  orig: 76, 135
+  offset: 0, 0
+  index: -1
+
+armor2.png
+size: 2019,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor/heavy/belt_iron1
+  rotate: false
+  xy: 985, 62
+  size: 280, 67
+  orig: 280, 67
+  offset: 0, 0
+  index: -1
+armor/heavy/bodyarmr_iron1
+  rotate: false
+  xy: 2, 75
+  size: 354, 347
+  orig: 354, 347
+  offset: 0, 0
+  index: -1
+armor/heavy/helmet_iron1
+  rotate: false
+  xy: 864, 192
+  size: 217, 231
+  orig: 217, 231
+  offset: 0, 0
+  index: -1
+armor/heavy/helmet_iron1b
+  rotate: true
+  xy: 843, 5
+  size: 156, 159
+  orig: 156, 159
+  offset: 0, 0
+  index: -1
+armor/heavy/l_arm_armr_iron1
+  rotate: false
+  xy: 672, 14
+  size: 103, 108
+  orig: 103, 108
+  offset: 0, 0
+  index: -1
+armor/heavy/l_armcop_iron1
+  rotate: false
+  xy: 1366, 209
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+armor/heavy/l_armcop_iron1b
+  rotate: false
+  xy: 1347, 292
+  size: 94, 81
+  orig: 94, 81
+  offset: 0, 0
+  index: -1
+armor/heavy/l_boot_iron1
+  rotate: 180
+  xy: 986, 127
+  size: 228, 295
+  orig: 228, 295
+  offset: 0, 0
+  index: -1
+armor/heavy/l_bracer_iron1
+  rotate: false
+  xy: 1907, 271
+  size: 109, 151
+  orig: 109, 151
+  offset: 0, 0
+  index: -1
+armor/heavy/l_hand_armr_iron1
+  rotate: false
+  xy: 1556, 14
+  size: 106, 134
+  orig: 106, 134
+  offset: 0, 0
+  index: -1
+armor/heavy/l_leg_armr_iron1
+  rotate: false
+  xy: 357, 87
+  size: 160, 335
+  orig: 160, 335
+  offset: 0, 0
+  index: -1
+armor/heavy/l_shin_armr_iron1
+  rotate: 180
+  xy: 1776, 122
+  size: 129, 301
+  orig: 129, 301
+  offset: 0, 0
+  index: -1
+armor/heavy/l_shldr_armr_iron1
+  rotate: false
+  xy: 1556, 150
+  size: 108, 272
+  orig: 108, 272
+  offset: 0, 0
+  index: -1
+armor/heavy/l_skirt_iron1
+  rotate: false
+  xy: 2, 353
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+armor/heavy/pants_iron1
+  rotate: true
+  xy: 516, 144
+  size: 278, 185
+  orig: 278, 185
+  offset: 0, 0
+  index: -1
+armor/heavy/r_arm_armr_iron1
+  rotate: false
+  xy: 1664, 11
+  size: 103, 108
+  orig: 103, 108
+  offset: 0, 0
+  index: -1
+armor/heavy/r_armcop_iron1
+  rotate: 180
+  xy: 1868, 3
+  size: 148, 131
+  orig: 148, 131
+  offset: 0, 0
+  index: -1
+armor/heavy/r_boot_iron1
+  rotate: false
+  xy: 1214, 127
+  size: 227, 296
+  orig: 227, 296
+  offset: 0, 0
+  index: -1
+armor/heavy/r_bracer_iron1
+  rotate: true
+  xy: 512, 36
+  size: 106, 158
+  orig: 106, 158
+  offset: 0, 0
+  index: -1
+armor/heavy/r_hand_3_armr_iron1
+  rotate: true
+  xy: 1350, 40
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: -1
+armor/heavy/r_hand_armr_iron1
+  rotate: false
+  xy: 1907, 136
+  size: 109, 133
+  orig: 109, 133
+  offset: 0, 0
+  index: -1
+armor/heavy/r_leg_armr_iron1
+  rotate: false
+  xy: 702, 122
+  size: 161, 300
+  orig: 161, 300
+  offset: 0, 0
+  index: -1
+armor/heavy/r_shin_armr_iron1
+  rotate: false
+  xy: 1666, 121
+  size: 129, 301
+  orig: 129, 301
+  offset: 0, 0
+  index: -1
+armor/heavy/r_shldr_armr_iron1
+  rotate: false
+  xy: 1443, 149
+  size: 111, 273
+  orig: 111, 273
+  offset: 0, 0
+  index: -1
+armor/heavy/r_skirt_iron1
+  rotate: false
+  xy: 293, 6
+  size: 123, 81
+  orig: 123, 81
+  offset: 0, 0
+  index: -1
+
+armor3.png
+size: 552,1959
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor/light/belt_leather1
+  rotate: 270
+  xy: 304, 1105
+  size: 285, 220
+  orig: 285, 220
+  offset: 0, 0
+  index: -1
+armor/light/belt_leather2
+  rotate: true
+  xy: 471, 1628
+  size: 282, 69
+  orig: 282, 69
+  offset: 0, 0
+  index: -1
+armor/light/bodyarmr_leather1
+  rotate: true
+  xy: 2, 83
+  size: 281, 277
+  orig: 281, 277
+  offset: 0, 0
+  index: -1
+armor/light/bodyarmr_leather2
+  rotate: false
+  xy: 2, 1632
+  size: 350, 325
+  orig: 350, 325
+  offset: 0, 0
+  index: -1
+armor/light/helmet_leather1
+  rotate: true
+  xy: 338, 1462
+  size: 197, 181
+  orig: 197, 181
+  offset: 0, 0
+  index: -1
+armor/light/helmet_leather1b
+  rotate: false
+  xy: 195, 1623
+  size: 42, 95
+  orig: 42, 95
+  offset: 0, 0
+  index: -1
+armor/light/helmet_leather1f
+  rotate: false
+  xy: 211, 1717
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+armor/light/helmet_leather2
+  rotate: 270
+  xy: 319, 375
+  size: 233, 230
+  orig: 233, 230
+  offset: 0, 0
+  index: -1
+armor/light/helmet_leather2b
+  rotate: true
+  xy: 348, 1739
+  size: 219, 127
+  orig: 219, 127
+  offset: 0, 0
+  index: -1
+armor/light/helmet_leather2b2
+  rotate: false
+  xy: 2, 1394
+  size: 45, 96
+  orig: 45, 96
+  offset: 0, 0
+  index: -1
+armor/light/l_boot_leather1
+  rotate: 270
+  xy: 73, 733
+  size: 224, 275
+  orig: 224, 275
+  offset: 0, 0
+  index: -1
+armor/light/l_boot_leather2
+  rotate: 270
+  xy: 2, 598
+  size: 220, 266
+  orig: 220, 266
+  offset: 0, 0
+  index: -1
+armor/light/l_bracer_leather1
+  rotate: true
+  xy: 402, 58
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+armor/light/l_bracer_leather2
+  rotate: false
+  xy: 399, 884
+  size: 104, 149
+  orig: 104, 149
+  offset: 0, 0
+  index: -1
+armor/light/l_legarmr_leather2
+  rotate: true
+  xy: 2, 1477
+  size: 155, 336
+  orig: 155, 336
+  offset: 0, 0
+  index: -1
+armor/light/l_shinarmr_leather2
+  rotate: false
+  xy: 263, 67
+  size: 137, 307
+  orig: 137, 307
+  offset: 0, 0
+  index: -1
+armor/light/pants_leather1
+  rotate: false
+  xy: 2, 964
+  size: 273, 179
+  orig: 273, 179
+  offset: 0, 0
+  index: -1
+armor/light/pants_leather2
+  rotate: 180
+  xy: 71, 1294
+  size: 275, 182
+  orig: 275, 182
+  offset: 0, 0
+  index: -1
+armor/light/r_armcop_leather1
+  rotate: false
+  xy: 402, 163
+  size: 112, 176
+  orig: 112, 176
+  offset: 0, 0
+  index: -1
+armor/light/r_boot_leather1
+  rotate: 180
+  xy: 150, 870
+  size: 247, 275
+  orig: 247, 275
+  offset: 0, 0
+  index: -1
+armor/light/r_boot_leather2
+  rotate: 180
+  xy: 172, 466
+  size: 220, 266
+  orig: 220, 266
+  offset: 0, 0
+  index: -1
+armor/light/r_bracer_leather1
+  rotate: true
+  xy: 83, 3
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+armor/light/r_bracer_leather2
+  rotate: false
+  xy: 390, 682
+  size: 104, 200
+  orig: 104, 200
+  offset: 0, 0
+  index: -1
+armor/light/r_legarmr_leather1
+  rotate: false
+  xy: 206, 29
+  size: 134, 36
+  orig: 134, 36
+  offset: 0, 0
+  index: -1
+armor/light/r_legarmr_leather2
+  rotate: true
+  xy: 2, 1145
+  size: 154, 300
+  orig: 154, 300
+  offset: 0, 0
+  index: -1
+armor/light/r_shinarmr_leather2
+  rotate: true
+  xy: 2, 330
+  size: 137, 316
+  orig: 137, 316
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf290c3bb0534af4c85f429f20b4a19c, type: 3}
+  m_Name: boots2
+  m_EditorClassIdentifier: 
+  name: boots2
+  icon: {fileID: 21300000, guid: ee8c4d70e6cafbc4195f45706ed9cf4c, type: 3}
+  isDefaultItem: 0
+  Stackable: 0
+  stackSize: 1
+  armorModifier: 2
+  damageModifier: 0
+  skeletonDataAsset: {fileID: 11400000, guid: 4d8edf5ae30ded04bb09a57bbc33c61f, type: 2}
+  skinsSystem: {fileID: 1257180498274409553, guid: 912c10dcf7f1b5640b04c4849aae6901, type: 3}
+  itemSkin: armor/light/2/lth_armr2_boots
+  itemType: 5
+  highHeels: 1
+  isChangingFoot: 1
+  isReplacingHand: 0
+  handSkins:
+  - hands/c1
+  - hands/c2
+  - hands/c3
+  - hands/c4
+  - hands/c5
+  - hands/iron1
+  replacingSkin: 0

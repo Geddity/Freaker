@@ -1,0 +1,262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1257180498274409554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1257180498274409581}
+  - component: {fileID: 1257180498274409582}
+  - component: {fileID: 1257180498274409583}
+  - component: {fileID: 1257180498274409552}
+  - component: {fileID: 1257180498274409553}
+  - component: {fileID: 1257180498274409580}
+  - component: {fileID: 7175638581982389687}
+  - component: {fileID: 8452918002676640760}
+  - component: {fileID: 1649091116}
+  m_Layer: 0
+  m_Name: human_male
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1257180498274409581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1257180498274409582
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_Mesh: {fileID: 0}
+--- !u!23 &1257180498274409583
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8eab0bd570b33f245956edc66f2c0b25, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &1257180498274409552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonDataAsset: {fileID: 11400000, guid: 4d8edf5ae30ded04bb09a57bbc33c61f, type: 2}
+  initialSkinName: 
+  initialFlipX: 0
+  initialFlipY: 0
+  updateWhenInvisible: 3
+  separatorSlotNames: []
+  zSpacing: 0
+  useClipping: 1
+  immutableTriangles: 0
+  pmaVertexColors: 1
+  clearStateOnDisable: 0
+  tintBlack: 0
+  singleSubmesh: 0
+  fixDrawOrder: 0
+  addNormals: 0
+  calculateTangents: 0
+  maskInteraction: 0
+  maskMaterials:
+    materialsMaskDisabled: []
+    materialsInsideMask: []
+    materialsOutsideMask: []
+  disableRenderingOnOverride: 1
+  _animationName: 
+  loop: 1
+  timeScale: 1
+--- !u!114 &1257180498274409553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc77ff95ded29f746982530517b29236, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseSkin: skin-base
+  eyelidsSkin: eyelids/girly
+  colorSkins:
+  - color/c1
+  - color/c2
+  - color/c3
+  - color/c4
+  - color/c5
+  eyesSkins:
+  - eyecolor/c1
+  - eyecolor/c2
+  - eyecolor/c3
+  - eyecolor/c4
+  - eyecolor/c5
+  - eyecolor/c6
+  - eyecolor/c7
+  mouthSkins:
+  - mouth/m1
+  - mouth/m2
+  - mouth/m3
+  - mouth/m4
+  scarSkins:
+  - scar/s0
+  - scar/s1
+  - scar/s2
+  - scar/s3
+  - scar/s4
+  - scar/s5
+  - scar/s6
+  - scar/s7
+  handSkins:
+  - hands/c1
+  - hands/c2
+  - hands/c3
+  - hands/c4
+  - hands/c5
+  - hands/iron1
+  activeHandColorIndex: 0
+  savedHandIndex: 0
+  savedHairIndex: 0
+  clothesSkin: default
+  pantsSkin: default
+  beltSkin: default
+  bracersSkin: default
+  bootsSkin: default
+  helmSkin: 
+  mainHandSkin: 
+  offHandSkin: 
+  runtimeMaterial: {fileID: 0}
+  runtimeAtlas: {fileID: 0}
+--- !u!114 &1257180498274409580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb60fcf2a03d0b478433df5b3252fac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blink: blink
+  dress_idle: dress_idle
+--- !u!114 &7175638581982389687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc449f6f0dd5b6429c0446224502225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  one_hand_sword: {fileID: 0}
+  one_hand_sword_and_shield: {fileID: 0}
+  two_hand_sword: {fileID: 0}
+  dual_wield: {fileID: 0}
+  idle: {fileID: 0}
+--- !u!114 &8452918002676640760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427f1608198880347858479e87674885, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  move: 0
+  attack: 0
+  walkSpeed: 1.5
+  runSpeed: 7
+  animationHandle: {fileID: 1649091116}
+--- !u!114 &1649091116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257180498274409554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82273c3b662177543841c2657edb37af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 1257180498274409552}
+  statesAndAnimations:
+  - stateName: idle
+    animation: {fileID: 11400000, guid: ffde6b702df098a449d6ff0d599b484a, type: 2}
+  - stateName: run
+    animation: {fileID: 11400000, guid: 9009276e6f17084468f30842dc9f466d, type: 2}
+  - stateName: attack
+    animation: {fileID: 11400000, guid: cafce7521dc777e4993ba04ddc3a8175, type: 2}
+  - stateName: take_dmg
+    animation: {fileID: 11400000, guid: e7ac87de89679ba4bb26eea5c34b1bd9, type: 2}
+  - stateName: defeated
+    animation: {fileID: 11400000, guid: 473ac9f36c2500647ae5d68dc841eba4, type: 2}

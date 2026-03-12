@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 011941da138653943aac16cde8d5c9dc, type: 3}
+  m_Name: Human
+  m_EditorClassIdentifier: 
+  Name: Human
+  raceInfo: 'Humans are humans. '
+  attributeBonus:
+    strength: 6
+    dexterity: 8
+    endurance: 6
+    senses: 6
+    intellect: 8
+    will: 6
+  levelUpRateBonus:
+    strength: 40
+    dexterity: 60
+    endurance: 50
+    senses: 40
+    intellect: 70
+    will: 40
+  statBonus:
+    hp: 0
+    mp: 0
+    dodge: 5
+    initiative: 5
+    attackRange: 0
+    movementPoints: 0
+    armor: 0
+    magicResistance: 0
+    accuracy: 5
+    intuition: 5
+    physicalDamage: 0
+    magicalDamage: 0
+    physicalCritChance: 0
+    physicalCritDamage: 10
+    magicalCritChance: 0
+    magicalCritDamage: 10
+    damage: 0

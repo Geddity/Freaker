@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 011941da138653943aac16cde8d5c9dc, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  Name: Orc
+  raceInfo: ORCS STRONK! AWRWWAWWGW
+  attributeBonus:
+    strength: 10
+    dexterity: 4
+    endurance: 8
+    senses: 8
+    intellect: 4
+    will: 6
+  levelUpRateBonus:
+    strength: 90
+    dexterity: 20
+    endurance: 70
+    senses: 50
+    intellect: 20
+    will: 50
+  statBonus:
+    hp: 30
+    mp: 0
+    dodge: 0
+    initiative: 0
+    attackRange: 0
+    movementPoints: 0
+    armor: 0
+    magicResistance: 0
+    accuracy: 0
+    intuition: 0
+    physicalDamage: 10
+    magicalDamage: 0
+    physicalCritChance: 5
+    physicalCritDamage: 40
+    magicalCritChance: 0
+    magicalCritDamage: 20
+    damage: 0
